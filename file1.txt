@@ -1,2 +1,6 @@
 first line in file1
+<<<<<<< HEAD
 ana baheb cristino  
+=======
+ana baheb messi 
+>>>>>>> branch1
